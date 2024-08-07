@@ -3,7 +3,7 @@
 	- Process Time: $O(n\log n)$
 	- Query Time: $O(\log n)$ or $O(1)$
 	- Space: $O(n\log n)$
-- Sparse tables do not handle updates efficiently, running in $O(n\log n)$ time. If you need to handle many updates, consider using a [[segment tree]].
+- Sparse tables do not handle updates efficiently, running in $O(n\log n)$ time. If you need to handle many updates, consider using a [[Segment Trees]].
 ## Prerequisites
 - A sparse table is only possible when the function $f(l, r)$ is associative. That is, $$f(a, f(b, c)) = f(f(a, b), c)$$
 - If the function is "overlap friendly," then the sparse table can answer queries in constant time. Being overlap friendly means that a function will yield the same answer regardless of whether it is combining ranges which overlap or not. More formally, $$f(f(a, b), f(b, c)) = f(a, f(b, c))$$

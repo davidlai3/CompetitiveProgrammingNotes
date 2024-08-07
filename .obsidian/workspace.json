@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Sorting and Searching/Multisets.md",
+                "file": "1. Sorting and Searching/Kadane's Algorithm.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Sorting and Searching/Multisets.md",
+                "file": "1. Sorting and Searching/Kadane's Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Sorting and Searching/Multisets.md",
+                "file": "1. Sorting and Searching/Kadane's Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Sorting and Searching/Multisets.md"
+                "file": "1. Sorting and Searching/Kadane's Algorithm.md"
               }
             }
           },
@@ -160,31 +160,32 @@
   "active": "c3df756f087ded12",
   "lastOpenFiles": [
     "1. Sorting and Searching/Maximum Interval.md",
-    "1. Sorting and Searching/Binary Search.md",
-    "3. Graphs/Topological Sort.md",
-    "3. Graphs/Dijkstra's Algorithm.md",
-    "4. Range Queries/2D Prefix Sums.md",
-    "3. Graphs/MST.md",
-    "3. Graphs/Disjoint Set Union.md",
-    "4. Range Queries/Prefix Sum.md",
-    "4. Range Queries/Fenwick Trees.md",
+    "1. Sorting and Searching/Kadane's Algorithm.md",
     "1. Sorting and Searching/Multisets.md",
-    "3. Graphs/DFS.md",
-    "2. DP/Binary String DP.md",
-    "2. DP/Range DP.md",
-    "2. DP/Knapsack.md",
-    "2. DP/Divide And Conquer DP.md",
-    "3. Graphs/BFS.md",
-    "5. Trees/Tree DP (Rerooting).md",
-    "5. Trees/Euler Tour Technique.md",
-    "5. Trees/Centroid Decomposition.md",
-    "5. Trees/Heavy-Light Decomposition.md",
+    "1. Sorting and Searching/Binary Search.md",
     "4. Range Queries/Sparse Tables.md",
-    "2. DP/Bitmask DP.md",
     "4. Range Queries/Segment Trees.md",
-    "5. Trees/Binary Lifting (LCA).md",
-    "Misc/Determining Complexity.md",
-    "8. Geometry/Sweep Line Algorithm.md",
+    "segment tree.md",
+    "4. Range Queries/Sqrt Decomposition.md",
+    "4. Range Queries/Prefix Sum.md",
+    "4. Range Queries/Mo's Algorithm.md",
+    "C++ Tips/Anonymous Functions.md",
+    "Misc/Bit Manipulation.md",
+    "C++ Tips",
+    "2. DP/Binary String DP.md",
+    "2. DP/Divide And Conquer DP.md",
+    "3. Graphs/Disjoint Set Union.md",
+    "3. Graphs/Dijkstra's Algorithm.md",
+    "3. Graphs/BFS.md",
+    "2. DP/Knapsack.md",
+    "2. DP/Bitmask DP.md",
+    "3. Graphs/MST.md",
+    "2. DP/DP On Grids.md",
+    "2. DP/Range DP.md",
+    "3. Graphs/Topological Sort.md",
+    "4. Range Queries/2D Prefix Sums.md",
+    "4. Range Queries/Fenwick Trees.md",
+    "3. Graphs/DFS.md",
     "8. Geometry",
     "7. String Structures/Untitled",
     "9. Game Theory",
@@ -194,7 +195,6 @@
     "6. Math",
     "Graphs/MST",
     "4. Range Queries",
-    "2. DP",
     "CSE220/Images/Pasted image 20240328085739.png",
     "CSE220/Images/Pasted image 20240326112838.png",
     "CSE220/Images/Pasted image 20240425103414.png",

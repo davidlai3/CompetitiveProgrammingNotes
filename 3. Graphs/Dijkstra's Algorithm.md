@@ -14,6 +14,7 @@
 	4. If the calculated value is less, also push the adjacent vertex onto the priority queue
 4. After completing these steps,  `dist[i]` will contain the lengths of the paths to reach vertex `i` in minimal time
 ## Implementation
+- NOTE: C++ priority queues are max-heaps by default. To change it to a min-heap, refer to the initialization below.
 ```cpp
 bool seen[N];
 ll int dist[N];
@@ -39,3 +40,6 @@ void dijkstra(const vector<vector<ii>> &adj) {
 	}
 }
 ```
+### Problems
+- LeetCode #64 - Minimum Path Sum
+- CSES - Shortest Routes I

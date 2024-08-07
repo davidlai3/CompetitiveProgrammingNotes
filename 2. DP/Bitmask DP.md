@@ -2,7 +2,7 @@
 - Bitmask DP is a dynamic programming technique that uses bit representations of numbers to represent visited nodes or elements of a set
 - Commonly used with graphs
 - Depending on the application, time and space complexities can vary:
-- Time: At least $O(2^n)$
+- Time: At least $O(2^n \cdot n)$
 - Space: At least $O(2^n)$
 ## Applications
 - Counting Hamiltonian walks
