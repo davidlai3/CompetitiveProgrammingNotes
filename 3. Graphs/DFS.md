@@ -56,6 +56,6 @@ void Graph::DFS(int v)
 
 ```
 
-### Practice Problems:
+## Practice Problems:
 - CSES: Building Roads
 - CSES: Round Trip

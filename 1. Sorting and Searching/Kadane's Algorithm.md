@@ -5,7 +5,7 @@
 - Time: $O(n)$
 - Space: $O(1)$
 
-### Implementation
+## Implementation
 - There are two basic variations, depending on the rules of your subarray:
 	1. Subarray may contain no elements, for a total sum of 0
 	2. Subarray must contain at least one element

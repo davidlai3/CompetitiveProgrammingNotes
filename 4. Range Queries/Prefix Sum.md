@@ -5,3 +5,4 @@
 
 ## Applications
 - Can be used to process sum queries over a static range in $O(1)$ time
+- [[Maximum Interval]]

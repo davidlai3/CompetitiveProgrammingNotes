@@ -1,4 +1,4 @@
-		## Overview
+## Overview
 - Used for obtaining the shortest path to all vertices in a weighted graph, given a starting vertex
 	- **The graph must be connected and have non-negative weights**
 - Most implementations use a priority queue to find the edge with minimum weight

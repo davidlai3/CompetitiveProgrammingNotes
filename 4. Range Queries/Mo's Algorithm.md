@@ -9,7 +9,7 @@
 - Initialize an accumulator or any required structure to keep track of result
 - Iterate through sorted queries, shifting left and right pointers as necessary
 
-### Implementation
+## Implementation
 ```cpp
 struct Query {
 	int l, r, idx;

@@ -5,8 +5,9 @@
 - Space : $O(V + E)$
 ## Applications
 - Can be used to find shortest/longest path in a weighted DAG
-- Determining whether a graph has a cycle
+- Determining if a directed graph has a cycle
 - Resolving dependencies (such as determining the order to perform activities)
+- [[Kosaraju's Algorithm]]
 ## Steps
 1. Pick an unvisited source (degree 0 node).
 2. Do a depth-first traversal starting with that node and only explore unvisited nodes.

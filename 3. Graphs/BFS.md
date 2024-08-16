@@ -53,6 +53,6 @@ void bfs(vector<vector<int> >& adjList, int startNode,
 
 ```
 
-### Practice Problems:
+## Practice Problems:
 - CSES: Labyrinth
 - CSES: Building Teams

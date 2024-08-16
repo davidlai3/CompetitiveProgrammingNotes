@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Sorting and Searching/Kadane's Algorithm.md",
+                "file": "1. Sorting and Searching/Binary Search.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Sorting and Searching/Kadane's Algorithm.md",
+                "file": "1. Sorting and Searching/Binary Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Sorting and Searching/Kadane's Algorithm.md",
+                "file": "1. Sorting and Searching/Binary Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Sorting and Searching/Kadane's Algorithm.md"
+                "file": "1. Sorting and Searching/Binary Search.md"
               }
             }
           },
@@ -159,33 +159,33 @@
   },
   "active": "c3df756f087ded12",
   "lastOpenFiles": [
-    "1. Sorting and Searching/Maximum Interval.md",
-    "1. Sorting and Searching/Kadane's Algorithm.md",
-    "1. Sorting and Searching/Multisets.md",
-    "1. Sorting and Searching/Binary Search.md",
-    "4. Range Queries/Sparse Tables.md",
-    "4. Range Queries/Segment Trees.md",
-    "segment tree.md",
-    "4. Range Queries/Sqrt Decomposition.md",
-    "4. Range Queries/Prefix Sum.md",
+    "2. DP/Range DP.md",
+    "3. Graphs/Kosaraju's Algorithm.md",
+    "3. Graphs/Tarjan's Algorithm.md",
     "4. Range Queries/Mo's Algorithm.md",
-    "C++ Tips/Anonymous Functions.md",
-    "Misc/Bit Manipulation.md",
-    "C++ Tips",
-    "2. DP/Binary String DP.md",
-    "2. DP/Divide And Conquer DP.md",
+    "1. Sorting and Searching/Kadane's Algorithm.md",
+    "3. Graphs/DFS.md",
+    "3. Graphs/BFS.md",
+    "3. Graphs/MST.md",
     "3. Graphs/Disjoint Set Union.md",
     "3. Graphs/Dijkstra's Algorithm.md",
-    "3. Graphs/BFS.md",
-    "2. DP/Knapsack.md",
-    "2. DP/Bitmask DP.md",
-    "3. Graphs/MST.md",
-    "2. DP/DP On Grids.md",
-    "2. DP/Range DP.md",
-    "3. Graphs/Topological Sort.md",
-    "4. Range Queries/2D Prefix Sums.md",
-    "4. Range Queries/Fenwick Trees.md",
-    "3. Graphs/DFS.md",
+    "C++ Tips/Templates.md",
+    "C++ Tips/Anonymous Functions.md",
+    "9. Game Theory/Sprague-Grundy Theorem.md",
+    "8. Geometry/Sweep Line Algorithm.md",
+    "8. Geometry/Convex Hull.md",
+    "7. String Structures/Trie.md",
+    "7. String Structures/Suffix Arrays.md",
+    "6. Math/Fast Fourier Transform (FFT).md",
+    "6. Math/Catalan Numbers.md",
+    "5. Trees/Tree DP (Rerooting).md",
+    "5. Trees/Euler Tour Technique.md",
+    "5. Trees/Heavy-Light Decomposition.md",
+    "5. Trees/Centroid Decomposition.md",
+    "5. Trees/Binary Lifting (LCA).md",
+    "4. Range Queries/Sparse Tables.md",
+    "4. Range Queries/Sqrt Decomposition.md",
+    "C++ Tips",
     "8. Geometry",
     "7. String Structures/Untitled",
     "9. Game Theory",
